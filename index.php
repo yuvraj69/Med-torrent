@@ -238,11 +238,11 @@
                                     </div>
                                     <div class="col-md-6 mt-4">
                                         <center>
-                                        Anshul Garg <br>
-                                        2nd Year COE <br>
-                                        Thapar University <br>
-                                        anshulg2211@gmail.com <br>
-                                        79737-61975
+                                        Yuvraj Garg <br>
+                                        3rd Year COE <br>
+                                        Delhi Technical University <br>
+                                        gargyuvraj69@gmail.com <br>
+                                        9466374603
                                         </center>
                                     </div>
                                 </div>
